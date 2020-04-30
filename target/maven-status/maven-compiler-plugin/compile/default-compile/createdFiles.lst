@@ -1,0 +1,8 @@
+com\luv2code\springsecurity\demo\config\DemoAppConfig.class
+com\luv2code\springsecurity\demo\config\DemoSecurityConfig.class
+com\luv2code\springsecurity\demo\controller\RegistrationController.class
+com\luv2code\springsecurity\demo\config\MySpringMvcDispatcherServletInitializer.class
+com\luv2code\springsecurity\demo\controller\LoginController.class
+com\luv2code\springsecurity\demo\user\CrmUser.class
+com\luv2code\springsecurity\demo\config\SecurityWebApplicationInitializer.class
+com\luv2code\springsecurity\demo\controller\DemoController.class
